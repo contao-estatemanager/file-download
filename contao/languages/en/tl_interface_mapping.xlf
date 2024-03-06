@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="src/Resources/contao/languages/en/tl_interface_mapping.php" source-language="en">
+    <body>
+      <trans-unit id="tl_interface_mapping.downloadFileFromURL.0">
+        <source>Download File</source>
+      </trans-unit>
+      <trans-unit id="tl_interface_mapping.downloadFileFromURL.1">
+        <source>Downloads and imports an image or document from a URL and imports it into the system.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
