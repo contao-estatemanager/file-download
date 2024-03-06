@@ -90,11 +90,11 @@ class AddonManager
         '42010ac868a44e15af936862d9f9723b',
         '08578572419640b0904c44535bb14e3a',
         'fde173c9c6fbd2ba636f22c341485439',
-        '25d09cf6ce00bee3c17e69b4204c54bf',
         '1275999ef122513ba437e69b03013bee',
         '3c74535ae96620ef246d49d084db6658',
         '2f144c520054fd961436485ddbbb1631',
         '705a9eee48788d9b58fe0314a8dc3d58',
+        'cc4156f6d301ed220e1e1329210a8fe3'
     ];
 
     public static function getLicenses(): array
