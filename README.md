@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Open source development of this plugin has been abandoned.
+> Further development continues in private and is no longer publicly available.
+> Please visit [contao-estatemanager.com](https://www.contao-estatemanager.com/) for more information.
+
 <h1 align="center">File Download for Contao EstateManager</h1>
 <p align="center"><i>The File-Download extension provides a setting to import images and files from external URLs into the ContaoEstateManager.</i></p>
 <p align="center">
